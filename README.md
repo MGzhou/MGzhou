@@ -8,7 +8,7 @@
 
 💞️ Python;
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MGzhou&hide=ipynb,TypeScript,html,C++,Notebook,GLSL,TeX,SCSS&exclude_repo=MGzhou.github.io,py_learning&layout=compact) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MGzhou&hide=TypeScript,html,C++,GLSL,TeX,SCSS&exclude_repo=MGzhou.github.io,py_learning&layout=compact) 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MGzhou&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
 
 -----------------------------------------------------
