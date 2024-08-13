@@ -6,8 +6,8 @@
 
 🌱 热衷于人工智能、深度学习、大模型、自然语言处理领域;    <br />
 
-💞️ Stata & Matlab & Python & R;  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MGzhou&hide=ipynb,TypeScript,html,CSS,C++,Notebook&exclude_repo=MGzhou.github.io,py_learning&layout=compact) 
+💞️ Python;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MGzhou&hide=ipynb,TypeScript,html,C++,Notebook,GLSL,TeX,SCSS&exclude_repo=MGzhou.github.io,py_learning&layout=compact) 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MGzhou&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
 
 -----------------------------------------------------
