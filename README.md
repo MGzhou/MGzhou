@@ -1,6 +1,6 @@
 -----------------------------------------------------
 
-👋 Hi, I’m @MGzhou(小周)  <br />
+👋 Hi, I’m @MGzhou  <br />
 
 📫 Email： [mgboy111@gmail.com](mailto:mgboy111@gmail.com);   <br />
 
